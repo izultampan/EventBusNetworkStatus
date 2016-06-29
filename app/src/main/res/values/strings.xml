@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EventBusLearning</string>
+    <string name="connection_status">Connection Status: </string>
+    <string name="connect_with"> Connect with: </string>
+    <string name="no_internet_status">No internet status</string>
+    <string name="wifi_connection">Wifi Connection</string>
+    <string name="mobile_connection">Mobile Connection</string>
+</resources>
